@@ -12,6 +12,8 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhiya-k-6782b1256)
 
+[![Leetcode](https://leetcode.com/u/santhiya_krishnamoorthy_)
+
 ---
 
 # 💻 Tech Stack:
