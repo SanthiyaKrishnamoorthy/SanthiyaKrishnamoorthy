@@ -1,20 +1,28 @@
-# 💫 About Me:
+# Santhiya Krishnamoorthy
 
+## 💫 About Me
 👋 Hi, I'm **SanthiyaKrishnamoorthy**!
 
-- 🤓 I'm passionate about **Software Engineering** and building meaningful applications.
-- 🌱 I'm currently leveling up my **Java programming** skills.
-- 💞️ I'm looking to collaborate on **exciting web application projects** — especially ones that solve real-world problems.
-- ⚡ Fun fact: I believe clean code and great teamwork make any project shine!
+- 🤓 Passionate about **Software Engineering** and building meaningful applications
+- 🌱 Currently leveling up **Java** (and building projects to practice)
+- 💞️ Open to collaborating on **web application projects** that solve real-world problems
+- ⚡ Fun fact: Clean code + great teamwork makes any project shine
 
----
-
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhiya-k-6782b1256)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000?style=flat&logo=leetcode&logoColor=orange)](https://leetcode.com/u/santhiya_krishnamoorthy_/)
 
-[![Leetcode](https://leetcode.com/u/santhiya_krishnamoorthy_)
+## ⭐ Featured Projects
 
----
+- **TNPSC Coaching Management System** — Backend system to manage Admin/Staff/Student data with secure role-based access. *(Spring Boot, MySQL, JWT, OOP)*  
+  Repo: https://github.com/SanthiyaKrishnamoorthy/tnpsc-coaching-centre-management-system
+
+- **Feedback Collector Web Application** — Cloud-based web app for real-time feedback collection and live display using Firebase/Firestore. *(HTML, CSS, JavaScript, Firebase Hosting)*  
+  Repo: https://github.com/SanthiyaKrishnamoorthy/feedback-collector-firebase
+
+- **Learning & Debugging Assistant for Python (RAG + LLM)** — AI-powered assistant using RAG + LLMs for course-specific Python support, plus a debugging sandbox for self-guided error correction. *(Streamlit, Python, LangChain, Vector DB)*  
+  Repo: https://github.com/logarathansv/PyDebugger---LLM-RAG-Integrated-Learning-Platform
+
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
