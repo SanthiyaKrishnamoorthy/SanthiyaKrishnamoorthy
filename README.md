@@ -14,13 +14,13 @@
 
 ## ⭐ Featured Projects
 
-- **TNPSC Coaching Management System** — Backend system to manage Admin/Staff/Student data with secure role-based access. *(Spring Boot, MySQL, JWT, OOP)*  
+- **TNPSC Coaching Management System** - Backend system to manage Admin/Staff/Student data with secure role-based access. *(Spring Boot, MySQL, JWT, OOP)*  
   Repo: https://github.com/SanthiyaKrishnamoorthy/tnpsc-coaching-centre-management-system
 
-- **Feedback Collector Web Application** — Cloud-based web app for real-time feedback collection and live display using Firebase/Firestore. *(HTML, CSS, JavaScript, Firebase Hosting)*  
+- **Feedback Collector Web Application** - Cloud-based web app for real-time feedback collection and live display using Firebase/Firestore. *(HTML, CSS, JavaScript, Firebase Hosting)*  
   Repo: https://github.com/SanthiyaKrishnamoorthy/feedback-collector-firebase
 
-- **Learning & Debugging Assistant for Python (RAG + LLM)** — AI-powered assistant using RAG + LLMs for course-specific Python support, plus a debugging sandbox for self-guided error correction. *(Streamlit, Python, LangChain, Vector DB)*  
+- **Learning & Debugging Assistant for Python (RAG + LLM)** - AI-powered assistant using RAG + LLMs for course-specific Python support, plus a debugging sandbox for self-guided error correction. *(Streamlit, Python, LangChain, Vector DB)*  
   Repo: https://github.com/logarathansv/PyDebugger---LLM-RAG-Integrated-Learning-Platform
 
 
