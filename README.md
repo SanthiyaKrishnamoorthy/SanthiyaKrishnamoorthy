@@ -9,7 +9,7 @@
 - ⚡ Fun fact: Clean code + great teamwork makes any project shine
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhiya-k-6782b1256)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/santhiya-k-6782b1256)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/santhiya_krishnamoorthy_/)
 
 # 📊 LeetCode Stats
