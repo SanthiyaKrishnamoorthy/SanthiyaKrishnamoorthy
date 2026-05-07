@@ -10,7 +10,13 @@
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhiya-k-6782b1256)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000?style=flat&logo=leetcode&logoColor=orange)](https://leetcode.com/u/santhiya_krishnamoorthy_/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/santhiya_krishnamoorthy_/)
+
+# 📊 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/santhiya_krishnamoorthy_?theme=dark&font=Nunito&ext=heatmap" />
+</p>
 
 ## ⭐ Featured Projects
 
